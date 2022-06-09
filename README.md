@@ -2,4 +2,5 @@
 
 using the model checker as expert who tells us in which starting points the robbers will get away,and then start the next episod from this point.
 help us to reach the optimal solution with much less iterations.
-in order to use the model checker you will need directory tests and put it there
+in order to use the model checker you will need directory tests and put it there with the txt files:add_end.txt,add_LTL.txt,add_CTL.txt
+run from CaRgame.py
